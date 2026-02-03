@@ -1,0 +1,6 @@
+# PDF Generation
+reportlab==4.0.7
+fpdf==1.7.2
+
+# Data Processing (optional)
+pandas==2.1.4
